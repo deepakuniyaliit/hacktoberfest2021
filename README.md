@@ -20,10 +20,11 @@ This repo is created to help all such people by making them aware of open source
 You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below - 
 
 
-> A valid pull request is one that is accepted by the maintainer of the project you submit it to.
+- A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
-A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
-The pull request must contain commits you made yourself.
+- A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
+
+- The pull request must contain commits you made yourself.
 
 
 Note:
