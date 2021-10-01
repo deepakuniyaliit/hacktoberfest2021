@@ -11,7 +11,7 @@
 
 Welcome Contributors,
 
-This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) website for your pull requests to count.
 
 This event is for novice as well as expert developers who want to make contributions to Open Source projects and also participate in the event.
 
@@ -68,7 +68,7 @@ Resources:
 4. Be in touch with [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
 
 
-For more query you can visit the __Official Hactoberfest 2021__ website [here](https://hacktoberfest.digitalocean.com/) and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
+For more query you can visit the __Official Hactoberfest 2021__ website [here]() and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
 
 To learn about making your __First Open Source__ contribution watch [this](https://www.youtube.com/watch?v=62V88DzJh-A) video.
 
