@@ -28,16 +28,6 @@ This repo is created to help all such people by making them aware of open source
 - The pull request must contain commits you made yourself.
 
 
-Note:
---- 
-
-- A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
-
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-
-
 Details:
 ---
 
@@ -55,6 +45,16 @@ Details:
 Example - For the first program in the list I will make file name - Q1_factorial_sum.c or Q1_factorial_sum.cpp or Q1_factorial_sum.py etc.
 
 8. Indent the code properly with necessary comments in the file.
+
+
+Note:
+--- 
+
+- A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
+
+- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+
+- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
 
 Resources:
@@ -77,3 +77,7 @@ To learn about making your __First Open Source__ contribution watch [this](https
 ## :heart: Contributor
 Made by Deepak Uniyal
 M.Tech. CSE IIT Roorkee
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo = deepakuniyaliit/hacktoberfest2021"/>
+</a>
