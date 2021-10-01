@@ -67,7 +67,7 @@ Resources:
 
 For more query you can visit the __Official Hactoberfest 2021__ website [here](https://hacktoberfest.digitalocean.com/) and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
 
-To learn about making your __First Open Source__ contribution watch [this](https://youtu.be/c6b6B9oN4Vg) video.
+To learn about making your __First Open Source__ contribution watch [this](https://www.youtube.com/watch?v=62V88DzJh-A) video.
 
 
 ## :heart: Contributor
