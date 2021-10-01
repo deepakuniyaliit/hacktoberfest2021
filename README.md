@@ -36,8 +36,7 @@ Details:
 1. Make sure to write your code in the respective folders so it can be easily reviewed.
 
 2. FileName should be in following format - quesNo_firstName_lastName.extension, where quesNo denotes the question no in the problem list, firstName_lastName is is the full name of the contributor and finally extension which is dependent on programming language you are going to follow for that particular program. Make sure to add the file in the respective folder of that particular language.
-
-Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
+	Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
 
 3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
