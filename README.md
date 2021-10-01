@@ -20,13 +20,14 @@ This repo is created to help all such people by making them aware of open source
 You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below - 
 
 
-A valid pull request is one that is accepted by the maintainer of the project you submit it to.
+> A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
 A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
 The pull request must contain commits you made yourself.
 
 
-Note: 
+Note:
+--- 
 
 A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
 If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
@@ -34,6 +35,7 @@ If a maintainer reports behavior that’s not in line with the project’s code 
 
 Details:
 ---
+
 1. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
 
 2. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
@@ -49,11 +51,6 @@ Example - For the first program in the list I will make file name - Q1_factorial
 
 8. Indent the code properly with necessary comments in the file.
 
-For more query you can visit the Official Hactober[here](https://hacktoberfest.digitalocean.com/) and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
-
-In case of any query you can visit my YouTube Channel [here](https://www.youtube.com/c/TheEasyConcepts/) and ask your queries in the comment section of respective video.
-
-To learn about making your first open source contribution watch [this](https://youtu.be/c6b6B9oN4Vg) video.
 
 Resources:
 ---
@@ -65,6 +62,12 @@ Resources:
 3. [Discord](https://discord.gg/vTF2Pe7g) For more efficient Discussion 
 
 4. Be in touch with [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
+
+
+For more query you can visit the __Official Hactoberfest 2021__ website [here](https://hacktoberfest.digitalocean.com/) and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
+
+To learn about making your __First Open Source__ contribution watch [this](https://youtu.be/c6b6B9oN4Vg) video.
+
 
 ## :heart: Contributor
 Made by Deepak Uniyal
