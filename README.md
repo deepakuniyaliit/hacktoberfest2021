@@ -55,20 +55,16 @@ In case of any query you can visit my YouTube Channel [here](https://www.youtube
 
 To learn about making your first open source contribution watch [this](https://youtu.be/c6b6B9oN4Vg) video.
 
-Learn Computer Science Concepts in an Easy Way with The Easy Concepts!!
+Resources:
+---
 
- 🕸 [Website](http://www.theeasyconcepts.com/)
+1. Join [Telegram](https://t.me/easy_concepts) Group for any discussion
 
- 🤖 [Facebook](https://www.facebook.com/theeasyconcepts/)
+2. [YouTube](https://www.youtube.com/c/TheEasyConcepts/) Channel For Resources
 
- 🦚 [Twitter](https://twitter.com/theeasyconcepts)
+3. [Discord](https://discord.gg/vTF2Pe7g) For more efficient Discussion 
 
- 🐈 [GitHub](https://github.com/deepakuniyaliit/OOP)
-
- 🤼 [LinkedIn](https://www.linkedin.com/in/deepak-uniyal-592b7545)
-
- 📳 [Telegram](https://t.me/theeasyconcepts)
-
+4. Be in touch with [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
 
 ## :heart: Contributor
 Made by Deepak Uniyal
