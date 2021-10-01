@@ -35,19 +35,23 @@ Details:
 
 1. Make sure to write your code in the respective folders so it can be easily reviewed.
 
-2. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-
-3. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
-
-4. A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
-
-6. Please take care of the file name, function name and variables for higher chances of getting your request accepted.
-
-7. FileName should be in following format - quesNo_firstName_lastName.extension, where quesNo denotes the question no in the problem list, firstName_lastName is is the full name of the contributor and finally extension which is dependent on programming language you are going to follow for that particular program. Make sure to add the file in the respective folder of that particular language. If the folder for that language is not present make sure to make the folder first then write your code in that folder.
+2. FileName should be in following format - quesNo_firstName_lastName.extension, where quesNo denotes the question no in the problem list, firstName_lastName is is the full name of the contributor and finally extension which is dependent on programming language you are going to follow for that particular program. Make sure to add the file in the respective folder of that particular language.
 
 Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
 
-8. Indent the code properly with necessary comments in the file.
+3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+
+4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+
+5. A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
+
+6. Please take care of the file name, function name and variables for higher chances of getting your request accepted.
+
+7. Indent the code properly with necessary comments in the file.
+
+8. If the folder for that language is not present make sure to make the folder first then write your code in that folder.
+
+9. If you have multiple files related to each other you can make a seperate folder inside the language folder and add the files in that separate folder.
 
 
 Note:
