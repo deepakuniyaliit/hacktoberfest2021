@@ -11,15 +11,15 @@
 
 Welcome Contributors,
 
-This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official [Hacktoberfest](https://hacktoberfest.digitalocean.com/) website for your pull requests to count.
+This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official __[Hacktoberfest](https://hacktoberfest.digitalocean.com/)__ website for your pull requests to count.
 
 This event is for novice as well as expert developers who want to make contributions to Open Source projects and also participate in the event.
 
 This repo is created to help all such people by making them aware of open source and how they can work in a team by making small contributions. We have included a list of basic programs here which are helpful for graduate students to make contributions. To make it more exhaustive list, we will keep adding new programs in the list which is surely going to be very helpful for all such beginners.
 
 
-## You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below - 
-
+## You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below:
+---
 
 - A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
@@ -37,10 +37,11 @@ Note:
 
 - If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
+
 Details:
 ---
 
-1. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+1. Make sure to write your code in the respective folders so it can be easily reviewed.
 
 2. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
@@ -65,10 +66,10 @@ Resources:
 
 3. [Discord](https://discord.gg/vTF2Pe7g) For more efficient Discussion 
 
-4. Be in touch with [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
+4. Be in touch with via [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
 
 
-For more query you can visit the __Official Hactoberfest 2021__ website [here]() and for FAQs [here](https://hacktoberfest.digitalocean.com/faq)
+For more query you can visit the __Official Hactoberfest 2021__ _FAQs_ [here](https://hacktoberfest.digitalocean.com/faq)
 
 To learn about making your __First Open Source__ contribution watch [this](https://www.youtube.com/watch?v=62V88DzJh-A) video.
 

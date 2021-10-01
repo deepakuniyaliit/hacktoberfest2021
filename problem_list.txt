@@ -1,0 +1,80 @@
+Basic Programs Everyone Should Know
+
+1. Write a program in C++ to find sum of factorial of digits of a number.
+2. Write a program in C++ to convert binary number to decimal number.
+3. Write a program in C++ to print integer cube root of a number.
+4. Write a C++ program to check whether two numbers are Twin Primes or not.
+5. Write a C++ program to check whether two numbers are Semi Primes or not.
+6. Write a program in C++ to print all factors of a number in increasing order.
+7. Write a program to check whether two numbers are co-prime or not.
+8. Given a string, find the minimum and the maximum length words in it.
+    Sample Input: "This is a test string"
+    Sample Output: 
+    Minimum length word: is
+    Maximum length word: string
+9. C Program to remove vowels from a String.
+10. Given a string str, we need to print reverse of individual words.
+     Sample Input: Hello World
+    Sample Output: olleH dlroW
+11. Write a program in C++ to convert the input string from lower case to upper case.
+Sample Input – The Easy Concepts
+Sample output – THE EASY CONCEPTS
+12. Write a C or C++ program to count the number of digits in a string.
+13. Write a C or C++ program in to count the number of words in the string.
+14. Write a program to print the character with maximum occurrence along with it’s frequency.
+      Ignore whitespace in the input string and also ignore case of characters.
+      Sample Input – The Easy Concepts
+      Sample Output – E:3
+15. Write a C program to check if a string is palindrome or not.
+16. Write a C or C++ program to reverse a string.
+17. Write a program in C++ to find transpose of a given matrix.
+18. Write a program to find out GCD of n numbers taken as input from user and stored in an array.
+19. Write a program to find LCM of 3 numbers.
+20. Write a C or C++ program to print diamond pattern.
+        *
+       * *
+      * * *
+     * * * *
+    * * * * *
+     * * * * *
+      * * * *
+       * * *
+        * *
+         *
+
+21. Write most efficient program to calculate whether a given number is prime or not.
+22. Write a C or C++ program to calculate list of prime numbers in a given range.
+23. Write a Program to print Pascal's Triangle Pattern.
+24. Write a program to find the factorial of a number using recursion.
+25.  Write a recursive program to check if the given number is palindrome or not.
+26. Write a C++ program to compute sum of digits of a number using recursion.
+27. Write a C++ program to reverse the digits of a number using recursion.
+28. Write a C++ program to find max of an array using recursion.
+29. Create a GUI based program that allows two players to play Tic Tac Toe. You can use java Script to create this program.
+30. Write a Java Script program that creates a random shape of random color on random location of your computer screen which appears after random amount of time and disappears when shape is clicked by user. The program should be able to calculate the time difference between appearance and disappearance of shape and show it on the top left corner of screen.
+31. Detect if a number is a happy number. A number is happy number if sequence of operations where number is replaced by sum of square of its digits leads eventually to 1. A number is not a happy number if we are in an infinite loop when above operations are performed.
+32.  Write a program in C++ to print the Floyd's Triangle.
+
+  1 
+  01
+  101 
+  0101 
+  10101
+  
+33.Write a C++ Program to display the pattern like pyramid using the alphabet.
+
+        A
+      A B A 
+    A B C B A
+  A B C D C B A
+
+34.Writa a C++ program to convert a binary number to decimal number system.
+35. Given an input, write an programe that returns the RUN LENGTH ENCODED string for the input string.
+	Example:
+		input: wwwwwaaadexxxxxxx
+		output: w5a3d1e1x7
+36. Given an array of words, print the count of all anagrams together in increasing order.
+	Example:
+		input: {"cat","dog","tac","god","act"}
+		grouped anagrams are (dog,god)(cat,tac,act)
+		output: 2,3
