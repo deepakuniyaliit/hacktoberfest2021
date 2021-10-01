@@ -11,13 +11,14 @@
 
 Welcome Contributors,
 
-This repository is created for helping beginners and intermediates to learn about open source projects and motivate them
-for contributing in open source projects. There are many experts out there but everyone was a begginer once.
+This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your pull requests to count.
+
+This event is for novice as well as expert developers who want to make contributions to Open Source projects and also participate in the event.
 
 This repo is created to help all such people by making them aware of open source and how they can work in a team by making small contributions. We have included a list of basic programs here which are helpful for graduate students to make contributions. To make it more exhaustive list, we will keep adding new programs in the list which is surely going to be very helpful for all such beginners.
 
 
-You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below - 
+## You are invited to make changes in this repository, we will accept your pull request if you fulfil all the basic criterias of program writing as listed below - 
 
 
 - A valid pull request is one that is accepted by the maintainer of the project you submit it to.
@@ -30,9 +31,11 @@ You are invited to make changes in this repository, we will accept your pull req
 Note:
 --- 
 
-A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
-If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
+
+- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+
+- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
 Details:
 ---
