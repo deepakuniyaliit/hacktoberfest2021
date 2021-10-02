@@ -1,0 +1,63 @@
+// C++ Program for above approach
+#include <iostream>
+using namespace std;
+
+
+struct node
+{
+    int data;
+    struct node *left;
+    struct node *right;
+};
+
+// Program to count leaves
+int countLeaves(struct node *node)
+{
+
+    // If the node itself is "null"
+    // return 0, as there
+    // are no leaves
+    if (node == NULL)
+    {
+        return 0;
+    }
+    int count = 0;
+    // It the node is a leaf then
+    // both right and left
+    // children will be "null"
+    if (node->left == NULL && node->right == NULL)
+    {
+        count++;
+    }
+
+    
+    count += countLeaves(node->left);
+    count += countLeaves(node->right);
+    return count;
+}
+
+
+struct node *newNode(int data)
+{
+    struct node *node =
+        (struct node *)malloc(sizeof(struct node));
+    node->data = data;
+    node->left = NULL;
+    node->right = NULL;
+    return (node);
+}
+
+
+int main()
+{
+    struct node *root = newNode(5);
+    root->left = newNode(6);
+    root->right = newNode(7);
+    root->left->left = newNode(8);
+    root->left->right = newNode(9);
+
+   
+    cout << countLeaves(root) << endl;
+}
+
+
