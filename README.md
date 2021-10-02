@@ -61,11 +61,9 @@ Example - For the first program in the list I will make file name - 1_deepak_uni
 Note:
 --- 
 
-- A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
+- The problem list is updated continuously so make sure to check the README and problem list before making a PR.
 
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- The problem list just for a reference any idea apart from the list is also welcomed but make sure the code written iis different from others and unique in its own way as it will help you to make a diverse and vast portfolio for yourself.
 
 
 Resources:
