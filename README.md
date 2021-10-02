@@ -22,6 +22,7 @@ This repo is created to help all such people by making them aware of open source
 ---
 
 - Refer to contibution.md for rules to contribute.
+
 - A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
 - A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
@@ -39,6 +40,8 @@ Details:
 2. FileName should be in following format - quesNo_firstName_lastName.extension, where quesNo denotes the question no in the problem list, firstName_lastName is is the full name of the contributor and finally extension which is dependent on programming language you are going to follow for that particular program. Make sure to add the file in the respective folder of that particular language.
 
 Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
+
+3. For programs not related to problem list the  file name should be as fileName_firstName_lastName.extension, where fileName is the file name you can give and firstName_lastName is your full name.
 
 3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
