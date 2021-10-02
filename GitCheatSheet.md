@@ -1,4 +1,4 @@
-# Devs-Git-Cheatsheet
+# Git-Cheatsheet
 
 This Repository is a guide to all the git commands you need to use in case any of these situations arise.
 
