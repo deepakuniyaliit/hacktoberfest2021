@@ -22,6 +22,7 @@ This repo is created to help all such people by making them aware of open source
 ---
 
 - Refer to contibution.md for rules to contribute.
+
 - A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
 - A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
@@ -40,19 +41,21 @@ Details:
 
 Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
 
-3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
+3. For programs not related to problem list the  file name should be as fileName_firstName_lastName.extension, where fileName is the file name you can give and firstName_lastName is your full name.
 
-4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+4. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
-5. A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
+5. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
 
-6. Please take care of the file name, function name and variables for higher chances of getting your request accepted.
+6. A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
 
-7. Indent the code properly with necessary comments in the file.
+7. Please take care of the file name, function name and variables for higher chances of getting your request accepted.
 
-8. If the folder for that language is not present make sure to make the folder first then write your code in that folder.
+8. Indent the code properly with necessary comments in the file.
 
-9. If you have multiple files related to each other you can make a seperate folder inside the language folder and add the files in that separate folder.
+9. If the folder for that language is not present make sure to make the folder first then write your code in that folder.
+
+10. If you have multiple files related to each other you can make a seperate folder inside the language folder and add the files in that separate folder.
 
 
 Note:
