@@ -83,29 +83,43 @@ To learn about making your **First Open Source** contribution watch [this](https
 ## :heart: Contributor
 
 Made by Deepak Uniyal
-M.Tech. CSE IIT Roorkee,
-Abhinav,
-Ayush Kesarwani,
-Nitin Shaily,
-Siddharth Singh,
-Pratham Gupta
-
+M.Tech. CSE IIT Roorkee
 <table>
   <tr>
     <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>   
   </tr>
+</table>
+
+Abhinav
+<table>
   <tr>
     <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>   
   </tr>
+</table>
+
+Ayush Kesarwani
+<table>
   <tr>
     <td align="center"><a href="https://github.com/Ayush12062000"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Ayush Kesarwani</b></sub></a><br /></td>   
   </tr>
+</table>
+
+Nitin Shaily
+<table>
   <tr>
     <td align="center"><a href="https://github.com/NitinShaily"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Nitin Shaily</b></sub></a><br /></td>   
   </tr>
+</table>
+
+Siddharth Singh
+<table>
   <tr>
     <td align="center"><a href="https://github.com/siddharth1704"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Siddharth Singh</b></sub></a><br /></td>   
   </tr>
+</table>
+
+Pratham Gupta
+<table>
   <tr>
     <td align="center"><a href="https://github.com/Pratham066"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Pratham Gupta</b></sub></a><br /></td>   
   </tr>
