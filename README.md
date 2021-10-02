@@ -39,6 +39,10 @@ Details:
 
 Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
 
+3. If your program is not described or present in the problem list given then you can name your file as fileName_firstName_lastName.extension, where fileName is the fileName you want to give and firstName_lastName is your full name.
+
+Example - quickSort_deepak_uniyal.cpp, etc.
+
 3. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
 4. If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
