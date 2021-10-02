@@ -175,3 +175,14 @@ Graphical notation of input graph
 
 
 sample output: 7 (as shortest path is 1-2-3-4-5-4-6-7)
+
+
+___________________________________________________
+
+18. Write a cpp program to find the size of a string without using any inbuilt function.
+
+Sample Input:
+Hacktoberfest
+
+Sample Output:
+13
