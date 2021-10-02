@@ -1,0 +1,34 @@
+h1
+{
+  font-family: 'Permanent Marker', cursive;
+  color:#ea2c62;
+  font-size: 5rem;
+}
+h2{
+  font-family: 'Permanent Marker' , cursive;
+  color:#892cdc;
+  font-size: 3rem;
+}
+body{
+  background-color: #fcf876;
+  text-align: center;
+}
+.title
+{
+  text-align: center;
+}
+.mid{
+  text-align: center;
+}
+h3{
+  font-size: 2rem;
+  color:#ea2c62;
+
+}
+.dice{
+  display: inline-block;
+  margin: 0 5% 5% 5%;
+}
+.title-color{
+  color:green;
+}
