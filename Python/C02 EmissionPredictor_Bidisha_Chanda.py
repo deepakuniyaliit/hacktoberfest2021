@@ -1,5 +1,6 @@
 #This code predicts the CO2 emission rate.
-#Domain: Machine Learning, Backend: Python
+#Domain: Machine Learning
+#Backend: Python
 
 
 {
