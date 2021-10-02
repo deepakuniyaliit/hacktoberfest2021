@@ -30,7 +30,7 @@ This repo is created to help all such people by making them aware of open source
 
 - Use the problem list present in the repository to select the problem statement to make your contributions.
 
-- Refer [Git-Cheatsheet](https://github.com/Devs-Paradise/Devs-Git-Cheatsheet) in order to learn how to create new branch, fix any error etc.
+- Refer [Git-Cheatsheet](https://github.com/Ayush12062000/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
 
 ## Details:
 
