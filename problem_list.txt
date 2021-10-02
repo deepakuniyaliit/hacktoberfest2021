@@ -1,0 +1,177 @@
+﻿Problem List
+
+
+1. Create a GUI based program that allows the user to calculate their BMI.
+
+
+2. Given a string, find the minimum and the maximum length words in it.
+    Sample Input: "This is a test string"
+    Sample Output: 
+    Minimum length word: is
+    Maximum length word: string
+
+
+3. Write a program to print the character with maximum occurrence along with its frequency.
+      Ignore whitespace in the input string and also ignore the case of characters.
+      Sample Input – The Easy Concepts
+      Sample Output – E:3
+
+
+4. Write a Program to print Pascal's Triangle Pattern.
+ 
+5. Write a C++ program to compute the sum of digits of a number using recursion.
+
+
+6. Write a C++ program to reverse the digits of a number using recursion.
+
+
+7. Write a C++ program to find the max of an array using recursion.
+
+
+8. Create a GUI based program that allows two players to play Tic Tac Toe. You can use javaScript to create this program.
+
+
+9. Write a javaScript program that creates a random shape of random color on a random location of your computer screen which appears after a random amount of time and disappears when the shape is clicked by the user. The program should be able to calculate the time difference between appearance and disappearance of shape and show it on the top left corner of the screen.
+
+
+10. Detect if a number is a happy number. A number is a happy number if the sequence of operations where the number is replaced by the sum of squares of its digits leads eventually to 1. A number is not a happy number if we are in an infinite loop when above operations are performed.
+
+
+11.  Write a program in C++ to print the Floyd's Triangle.
+
+
+  1 
+  01
+  101 
+  0101 
+  10101
+  
+12.Write a C++ Program to display the pattern like a pyramid using the alphabet.
+
+
+        A
+      A B A         
+    A B C B A
+  A B C D C B A
+
+
+13.Write a C++ program to convert a binary number to decimal number system.
+
+
+14. Given an input, write an program that returns the RUN LENGTH ENCODED string for the input string.
+        Example:
+                input: wwwwwaaadexxxxxxx
+                output: w5a3d1e1x7
+
+
+15. Given an array of words, print the count of all anagrams together in increasing order.
+        Example:
+                input: {"cat","dog","tac","god","act"}
+                grouped anagrams are (dog,god)(cat,tac,act)
+                output: 2,3
+
+
+ 
+
+
+
+
+
+
+________________________________
+
+
+
+
+16. During the day, a supermarket will receive calls from customers who want to place orders. The supermarket manager knows in advance the number of calls that will be attempted, the start time, duration and order volume for each call. Only one call can be in progress at any one time, and if a call is not answered, the caller will not call back. The manager must choose which calls to service in order to maximize order volume. Determine that maximum order volume.
+
+
+Input format : 
+
+
+First line contain a integers N 
+
+
+Second line contain N space separated 
+integers i.e., starting time of every call.
+
+
+ Third line contains N space separated integers i.e., duration of call .  
+
+
+Fourth line contain N space separated integers 
+i.e., volume that is ordered by Customer.
+N :5  
+
+
+
+
+Output Format : 
+ 
+A single Integer that is the Maximum number of volumes ordered by customers.
+
+
+
+
+
+
+Example: 
+
+
+starting time : [10, 5, 15, 18, 30]
+
+
+duration of call :  [30, 12, 20, 35, 35]
+ 
+order of volume : [50, 51, 20, 25, 10 ]
+ 
+answer will be 51+25=76 
+ 
+Explanation: 
+
+
+The first call will start at time 10, and last until time = 40. The second call will start at time 5 and last until time - 17. The third call will start at time 15, and last until time-35 The fourth call will start at time 18, and last until time 53. The fifth call will start at time 30 and last until time 65
+
+
+The first call completely overlaps the second and third calls, and partially overlaps the fourth and fifth calls. Choosing calls that do not overlap, answering the 2nd and 4 calls will lead to the maximum total order volume of 51 +25= 76 
+return 76 . 
+ 
+Input : 
+5  
+[10, 5, 15, 18, 30]
+ [30, 12, 20, 35, 35]
+[50, 51, 20, 25, 10 ]
+ 
+Output : 
+76   
+________________________________
+
+
+
+
+17. A country has multiple cities which are represented as vertices of a graph and cities are interconnected with each other through roads. These roads are represented as undirected edges between the vertices with unit weight (same weight for all roads). Now calculate the shortest path between 'A' to 'B' such that you are travelling in a car with a capacity of 'c' and there are only a few cities which have fuel stations where you can fill the car to complete capacity (when you visit that vertex). When you travel from one city to another you consume a unit of fuel and at the source city you start with full capacity of fuel.
+
+
+Sample Input:
+Roads: [[1,2],[2,3],[3,4],[4,5],[4,6],[6,7]]
+A: 1 
+B: 7 
+capacity 'c': 4
+fuel stations: [5]
+
+
+Graphical notation of input graph
+1
+|
+2
+|
+3
+|
+4 - 5
+|
+6
+|
+7
+
+
+sample output: 7 (as shortest path is 1-2-3-4-5-4-6-7)
