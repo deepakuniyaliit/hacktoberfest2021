@@ -85,6 +85,8 @@ To learn about making your **First Open Source** contribution watch [this](https
 Made by Deepak Uniyal
 M.Tech. CSE IIT Roorkee
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = deepakuniyaliit/hacktoberfest2021"/>
-</a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>   
+  </tr>
+</table>
