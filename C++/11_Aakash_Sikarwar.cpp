@@ -10,7 +10,7 @@ int main()
     for(i=1; i<=row; i++ ){
         for(j=1; j<=i; j++ ){
         	if(j%2==0)
-        	cout<<"0";
+        cout<<"0";
         else
 			
         cout<<"1";
@@ -18,5 +18,4 @@ int main()
     cout<< endl;
     }
     getch();
-    return 0;
 }
