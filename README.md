@@ -1,31 +1,30 @@
 <h1 align="center">Hacktoberfest2021</h1>
 
-
 <p align="center">
     <a href="https://hacktoberfest.digitalocean.com/">
         <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" width="50%">
     </a>
 </p>
 
-![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
+![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
 Welcome Contributors,
 
-This repositry has been created as a medium for developers to participate in the __Hactoberfest 2021__ event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official __[Hacktoberfest](https://hacktoberfest.digitalocean.com/)__ website for your pull requests to count.
+This repositry has been created as a medium for developers to participate in the **Hactoberfest 2021** event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** website for your pull requests to count.
 
 This event is for novice as well as expert developers who want to start their journey or make contributions to _Open Source Projects_ and also participate in the event.
 
 This repo is created to help all such people by making them aware of open source and how they can work in a team by making small contributions. We have included a list of basic programs here which are helpful for graduate students to make contributions. To make it more exhaustive list, we will keep adding new programs in the list which is surely going to be very helpful for all such beginners.
 
-
 ## You are invited to make changes in this repository, we will accept your pull request if you fulfill all the basic criterias of program writing as listed below:
+
 ---
 
-- Refer to contibution.md for rules to contribute.
+- Refer to [Contibutions-Guide](https://github.com/deepakuniyaliit/hacktoberfest2021/blob/main/contribution.md) for rules to contribute.
 
 - A valid pull request is one that is accepted by the maintainer of the project you submit it to.
 
-- A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label. 
+- A pull request is considered approved once it has an overall approving review from maintainers, or has been merged by maintainers, or has been given the 'hacktoberfest-accepted' label.
 
 - The pull request must contain commits you made yourself.
 
@@ -33,9 +32,9 @@ This repo is created to help all such people by making them aware of open source
 
 - Any indivisual ideas are also welcome for contributions.
 
+- Refer [Git-Cheatsheet](https://github.com/Ayush12062000/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
 
-Details:
----
+## Details:
 
 1. Make sure to write your code in the respective folders so it can be easily reviewed.
 
@@ -43,7 +42,7 @@ Details:
 
 Example - For the first program in the list I will make file name - 1_deepak_uniyal.c or 1_deepak_uniyal.cpp or 1_deepak_uniyal.py etc.
 
-3. For programs not related to problem list the  file name should be as fileName_firstName_lastName.extension, where fileName is the file name you can give and firstName_lastName is your full name.
+3. For programs not related to problem list the file name should be as fileName_firstName_lastName.extension, where fileName is the file name you can give and firstName_lastName is your full name.
 
 4. If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
 
@@ -59,36 +58,35 @@ Example - For the first program in the list I will make file name - 1_deepak_uni
 
 10. If you have multiple files related to each other you can make a seperate folder inside the language folder and add the files in that separate folder.
 
-
 Note:
---- 
+
+---
 
 - The problem list is updated continuously so make sure to check the README and problem list before making a PR.
 
 - The problem list is just for your reference, any idea apart from the list is also welcomed but make sure the code written is unique in its own way as it will help you to make a diverse and vast portfolio for yourself.
 
-
-Resources:
----
+## Resources:
 
 1. Join [Telegram](https://t.me/easy_concepts) Group for any discussion
 
 2. [YouTube](https://www.youtube.com/c/TheEasyConcepts/) Channel For Resources
 
-3. [Discord](https://discord.gg/vTF2Pe7g) For more efficient Discussion 
+3. [Discord](https://discord.gg/vTF2Pe7g) For more efficient Discussion
 
 4. Be in touch with via [Linkedin](https://www.linkedin.com/in/deepak-uniyal-592b7545)
 
+For more query you can visit the **Official Hactoberfest 2021** _FAQs_ [here](https://hacktoberfest.digitalocean.com/faq)
 
-For more query you can visit the __Official Hactoberfest 2021__ _FAQs_ [here](https://hacktoberfest.digitalocean.com/faq)
-
-To learn about making your __First Open Source__ contribution watch [this](https://www.youtube.com/watch?v=62V88DzJh-A) video.
-
+To learn about making your **First Open Source** contribution watch [this](https://www.youtube.com/watch?v=62V88DzJh-A) video.
 
 ## :heart: Contributor
+
 Made by Deepak Uniyal
 M.Tech. CSE IIT Roorkee
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo = deepakuniyaliit/hacktoberfest2021"/>
-</a>
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>   
+  </tr>
+</table>
