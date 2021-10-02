@@ -12,7 +12,7 @@ Welcome Contributors,
 
 This repositry has been created as a medium for developers to participate in the **Hactoberfest 2021** event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** website for your pull requests to count.
 
-This event is for novice as well as expert developers who want to make contributions to Open Source projects and also participate in the event.
+This event is for novice as well as expert developers who want to start their journey or make contributions to _Open Source Projects_ and also participate in the event.
 
 This repo is created to help all such people by making them aware of open source and how they can work in a team by making small contributions. We have included a list of basic programs here which are helpful for graduate students to make contributions. To make it more exhaustive list, we will keep adding new programs in the list which is surely going to be very helpful for all such beginners.
 
@@ -28,7 +28,9 @@ This repo is created to help all such people by making them aware of open source
 
 - The pull request must contain commits you made yourself.
 
-- Use the problem list present in the repository to select the problem statement to make your contributions.
+- You can use the problem list present in the repository to select the problem statement to make your contributions.
+
+- Any indivisual ideas are also welcome for contributions.
 
 - Refer [Git-Cheatsheet](https://github.com/Ayush12062000/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
 
@@ -60,11 +62,9 @@ Note:
 
 ---
 
-- A pull request with any label containing the word 'spam' or 'invalid' will be considered ineligible for Hacktoberfest.
+- The problem list is updated continuously so make sure to check the README and problem list before making a PR.
 
-- If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
-
-- If a maintainer reports behavior that’s not in line with the project’s code of conduct, you will be ineligible to participate.
+- The problem list is just for your reference, any idea apart from the list is also welcomed but make sure the code written is unique in its own way as it will help you to make a diverse and vast portfolio for yourself.
 
 ## Resources:
 
