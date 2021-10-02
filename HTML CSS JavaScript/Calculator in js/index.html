@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+
+<body>
+
+    <div class="calculator">
+        <form action="backrnd.php">
+            <div>
+                First number:<input id='a' type="number" name="">
+            </div>
+            <div>
+                Second number:<input id='b' type="number" name="">
+            </div>
+            <div>
+                <p>Select operation :</p>
+                <input onclick="calculator(this.value)" type="button" value="Add">
+                <input onclick="calculator(this.value)" type="button" value="Mul">
+                <input onclick="calculator(this.value)" type="button" value="Div">
+                <input onclick="calculator(this.value)" type="button" value="Sub">
+            </div>
+            <div>
+                <p id="result">Result :</p>
+            </div>
+        </form>
+    </div>
+
+
+</body>
+<script src="script.js"></script>
+
+</html>
