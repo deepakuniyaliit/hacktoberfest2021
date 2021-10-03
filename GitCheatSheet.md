@@ -358,3 +358,6 @@ Create a shortcut for a gh command.
 ```
 
 **[⬆ Back to Index](#index-books)**
+
+
+Taken From https://github.com/Devs-Paradise/Devs-Git-Cheatsheet 
