@@ -1,0 +1,125 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  color: #66BFBF;
+  margin: 50px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #40514E;
+}
+
+hr{
+  width: 20%;
+  border-style: dotted;
+  border-width: 10px 0px 0px 0px;
+  border-color: grey;
+}
+
+.copyright{
+  color: #EAF6F6;
+}
+
+.top-container{
+  background-color: #E4F9F5;
+  line-height: 2.0;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.title-caption{
+  font-weight: normal;
+}
+
+.coding-image{
+  float: left;
+  padding-right: 30px;
+  width: 25%;
+}
+
+.public-speaking-image{
+  float: right;
+  padding-left: 30px;
+  width: 25%;
+}
+
+.skill-row{
+  line-height: 2.0;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.btn {
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   font-weight: bold;
+   padding: 10px;
+   background-color: #66BFBF;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 50px auto 50px auto;
+}
+
+.btn:hover {
+   background: #5A8F8F;
+   border: solid #66BFBF 0;
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   text-decoration: none;
+}
