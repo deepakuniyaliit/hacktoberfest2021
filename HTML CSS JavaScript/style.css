@@ -1,0 +1,86 @@
+.top-border{
+    /* background: white; */
+    border: 5px solid cyan;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.font2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.hr{
+    width: 33%;
+    margin-left: 33%;
+    border-width: 3px;
+    border-color: darkmagenta;
+}
+
+.alg{
+    text-align: center;
+    margin-right: 33%;
+    margin-left: 33%;
+    margin-top: auto;
+}
+
+.curs-ptr{
+    cursor: pointer;
+}
+
+.dog-img{
+    padding-top: 5px;
+    /* image-rendering: optimizeQuality; */
+    width: 300px;
+    height: 300px;
+}
+.color-box{
+    border: 2px solid grey;
+    background: grey;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.color-box2{
+    /* padding-top: 5px; */
+    border: 2px solid #0d1137 ;
+    background:  #0d1137;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
+}
+.color-button{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    /* position: absolute; */
+    margin-top: 10px;
+}
+
+
+.col1{
+    background-color: #d72631;
+}
+.col2{
+    background-color: #a2d5c6;
+}
+.col3{
+    background-color: #077b8a;
+}
+.col4{
+    background-color: white;
+}
+.box-pos{
+    position: fixed;
+    bottom: 5px;
+    margin-left: 80%;
+}
