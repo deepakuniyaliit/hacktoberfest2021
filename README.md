@@ -86,14 +86,19 @@ Made by Deepak Uniyal
 M.Tech. CSE IIT Roorkee
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
   </tr>
 </table>
 
 Abhinav
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>   
+    <td align="center"><a href="https://github.com/k40t1k-sys"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Abhinav</b></sub></a><br /></td>
   </tr>
 </table>
 
