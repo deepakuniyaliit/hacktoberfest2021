@@ -1,0 +1,5 @@
+1. Install MATLAB or open online MATLAB tool
+2. Copy the Code from tumordetect.txt file.
+3. Add the images from main dataset or tested images into the MATLAB drive.
+4. Run the project.
+5. Code explanation is given in the code itself.
