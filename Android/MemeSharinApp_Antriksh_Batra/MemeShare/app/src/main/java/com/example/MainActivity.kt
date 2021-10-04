@@ -28,7 +28,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
         loadMeme()
     }
 
@@ -40,30 +39,39 @@ class MainActivity : AppCompatActivity() {
 
 // Request a string response from the provided URL.
         val jsonObjectRequest = JsonObjectRequest(GET, url, null,
-                { response ->
+            { response ->
+                currentImageurl = response.getString("url")
+                val memeImageView = findViewById<ImageView>(R.id.memeImageView)
+                Glide.with(this).load(currentImageurl).listener(object : RequestListener<Drawable> {
 
-                    currentImageurl = response.getString("url")
-                    val memeImageView = findViewById<ImageView>(R.id.memeImageView)
-                    Glide.with(this).load(currentImageurl).listener(object : RequestListener<Drawable> {
+                    override fun onLoadFailed(
+                        e: GlideException?,
+                        model: Any?,
+                        target: Target<Drawable>?,
+                        isFirstResource: Boolean
+                    ): Boolean {
+                        progressBar.visibility = View.GONE
+                        return false
+                    }
 
-                        override fun onLoadFailed(e: GlideException?, model: Any?, target: Target<Drawable>?, isFirstResource: Boolean): Boolean {
-                            progressBar.visibility = View.GONE
-                            return false
-                        }
-
-                        override fun onResourceReady(resource: Drawable?, model: Any?, target: Target<Drawable>?, dataSource: DataSource?, isFirstResource: Boolean): Boolean {
-                            progressBar.visibility = View.GONE
-                            return false
-                        }
-                    }).into(memeImageView)
-                },
-                {
-                    Toast.makeText(this, "Something went wrong", Toast.LENGTH_SHORT).show()
-                })
+                    override fun onResourceReady(
+                        resource: Drawable?,
+                        model: Any?,
+                        target: Target<Drawable>?,
+                        dataSource: DataSource?,
+                        isFirstResource: Boolean
+                    ): Boolean {
+                        progressBar.visibility = View.GONE
+                        return false
+                    }
+                }).into(memeImageView)
+            },
+            {
+                Toast.makeText(this, "Something went wrong", Toast.LENGTH_SHORT).show()
+            })
         // Add the request to the RequestQueue
         MySingleton.getInstance(this).addToRequestQueue(jsonObjectRequest)
     }
-
 
     fun nextMeme(view: View) {
         loadMeme()
@@ -72,7 +80,10 @@ class MainActivity : AppCompatActivity() {
     fun shareMeme(view: View) {
         val intent = Intent(Intent.ACTION_SEND)
         intent.type = "text/plain"
-        intent.putExtra(Intent.EXTRA_TEXT, "Hey,Checkout this cool meme I got from Reddit $currentImageurl")
+        intent.putExtra(
+            Intent.EXTRA_TEXT,
+            "Hey,Checkout this cool meme I got from Reddit $currentImageurl"
+        )
         val chooser = Intent.createChooser(intent, "Share this meme using.....")
         startActivity(chooser)
     }
