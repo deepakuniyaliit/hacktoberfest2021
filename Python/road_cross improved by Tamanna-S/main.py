@@ -4,9 +4,7 @@ from player import Player
 from turtle import Screen, textinput
 import time
 screen = Screen()
-def play():
-
-    
+def play():    
     screen.clearscreen()
     screen.setup(width=600, height=600)
     screen.title("CROSS_THE_ROAD...")
