@@ -12,12 +12,8 @@ Welcome Contributors,
 
 This repositry has been created as a medium for developers to participate in the **Hactoberfest 2021** event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** website for your pull requests to count.
 
-This event is for novice as well as expert developers who want to start their journey or make contributions to _Open Source Projects_ and also participate in the event.
-
-This repo is created to help all such people by making them aware of open source and how they can work in a team by making small contributions. We have included a list of basic programs here which are helpful for graduate students to make contributions. To make it more exhaustive list, we will keep adding new programs in the list which is surely going to be very helpful for all such beginners.
 
 ## You are invited to make changes in this repository, we will accept your pull request if you fulfill all the basic criterias of program writing as listed below:
-
 ---
 
 - Refer to [Contibutions-Guide](https://github.com/deepakuniyaliit/hacktoberfest2021/blob/main/contribution.md) for rules to contribute.
@@ -34,7 +30,9 @@ This repo is created to help all such people by making them aware of open source
 
 - Refer [Git-Cheatsheet](https://github.com/Ayush12062000/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
 
+
 ## Details:
+---
 
 1. Make sure to write your code in the respective folders so it can be easily reviewed.
 
@@ -85,8 +83,6 @@ To learn about making your **First Open Source** contribution watch [this](https
 Made by Deepak Uniyal
 M.Tech. CSE IIT Roorkee
 
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/deepakuniyaliit"><img src="https://avatars.githubusercontent.com/u/9281457?v=4" width="80px;" alt=""/><br /><sub><b>Deepak Uniyal</b></sub></a><br /></td>   
-  </tr>
-</table>
+<a href="https://github.com/deepakuniyaliit/hacktoberfest2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=deepakuniyaliit/hacktoberfest2021" />
+</a>
