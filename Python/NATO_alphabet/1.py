@@ -10,9 +10,14 @@ ans = False
 
 while not ans:
     word = input("Enter the WORD / SENTENCE  / NAME  & any other: ").upper()
+    output = []
 
     try:
-        output = [phonic_dict[letter] for letter in word]
+        for letter in word:
+            if letter == " ":
+                output.append("    ")
+            else:
+                output.append(phonic_dict[letter])
         
     except KeyError:
         print("please enter alphabets only")
