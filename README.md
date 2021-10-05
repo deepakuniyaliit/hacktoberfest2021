@@ -28,7 +28,7 @@ This repositry has been created as a medium for developers to participate in the
 
 - Any indivisual ideas are also welcome for contributions.
 
-- Refer [Git-Cheatsheet](https://github.com/Ayush12062000/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
+- Refer [Git-Cheatsheet](https://github.com/deepakuniyaliit/hacktoberfest2021/blob/main/GitCheatSheet.md) in order to learn how to create new branch, fix any error etc.
 
 
 ## Details:
