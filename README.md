@@ -8,6 +8,10 @@
 
 ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-green.svg)
 
+
+## Note - Dear contributors, this repositpry has been excluded from the Hacktoberfest, due to unknown reasons. If you make a pull request to this repository now, it will not be counted in the HacktoberFest. We will update our [new repository](https://github.com/deepakuniyaliit/open-source-projects) with new rules and guidelines by the end of 6th October 2021. Once we update it, you can again make the pull requests either by selecting the given list of issues or creating your own issue. Thanks for your cooperation and patience.
+
+
 Welcome Contributors,
 
 This repositry has been created as a medium for developers to participate in the **Hactoberfest 2021** event. You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official **[Hacktoberfest](https://hacktoberfest.digitalocean.com/)** website for your pull requests to count.
