@@ -1,0 +1,1 @@
+This is a basic app to view and share memes. This app uses VOLLEY library . Every meme is unique and are impoerted from Reddit. You can share memes With your friends using the share button oon any platform you like :)
