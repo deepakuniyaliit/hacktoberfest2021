@@ -460,3 +460,9 @@ h3{
     }
 
 }
+
+.prog_lang:hover{
+    transform: rotate(-30deg);
+  cursor: pointer;
+  transition: transform 0.5s;
+}

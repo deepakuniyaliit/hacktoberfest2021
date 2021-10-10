@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Nunito&family=Rakkas&display=swap');
+
 /*root for declare variable */
 :root{ 
     --mainColor:#928383;
@@ -53,6 +55,7 @@ li,span,label,input,textarea{
 
 .text{
     height:60px;
+    font-family: Concert One, cursive;
 }
 /* ul and all heading font size */
 ul{ list-style: none; }
@@ -85,10 +88,12 @@ h6{ font-size: 16px; }
     background-color:var(--navigColor);
     grid-area: 1/1/2/2;
     border-radius: 0px 0px 10px 10px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito', sans-serif;
 }
 .home-nav:hover{
     width:100px;
-    height:40px;
+    height:30px;
     padding-top:60px;
     background-color:var(--navigColor); 
     cursor: pointer; 
@@ -101,11 +106,12 @@ h6{ font-size: 16px; }
     padding-top:20px;  
     grid-area: 1/2/2/3;
     border-radius: 0px 0px 10px 10px;
+    font-family: 'Nunito', sans-serif;
 }
 .About-nav:hover{
     width:100px;
     cursor: pointer;
-    height:40px;
+    height:30px;
     padding-top:60px;
     background-color:var(--navigColor);
     border-radius: 0px 0px 10px 10px;
@@ -117,10 +123,11 @@ h6{ font-size: 16px; }
     padding-top:20px; 
     grid-area: 1/3/2/4;
     border-radius: 0px 0px 10px 10px;
+    font-family: 'Nunito', sans-serif;
 }
 .Projects-nav:hover{
     width:100px;
-    height:40px;
+    height:30px;
     padding-top:60px;
     cursor: pointer;
     background-color:var(--navigColor);
@@ -133,10 +140,11 @@ h6{ font-size: 16px; }
     cursor: pointer; 
     grid-area: 1/4/2/5;
     border-radius: 0px 0px 10px 10px;
+    font-family: 'Nunito', sans-serif;
 }
 .Contact-nav:hover{
     width:100px;
-    height:40px;
+    height:30px;
     cursor: pointer;
     padding-top:60px;
     background-color:var(--navigColor);
@@ -214,6 +222,7 @@ h6{ font-size: 16px; }
     display: flex; 
     justify-content:space-between; 
     align-items:center; 
+    background-color: #000;
 }  
 
 /*navigation*/
@@ -232,6 +241,7 @@ h6{ font-size: 16px; }
     line-height:0; 
     margin-top:40px;
     margin-bottom: 20px;
+    font-family: Concert One, cursive;
 }
 
 /*dots-wrapper*/
@@ -389,7 +399,8 @@ h6{ font-size: 16px; }
     margin-left:105px; 
     background-color:var(--mainText);
     border: 1px solid var(--navigColor);
-    color:var(--navigColor);
+    /*color:var(--navigColor);*/
+    background-color: #d01818;
     font-size:18px;
     text-align:center;
     box-shadow: -5px 2px 5px 3px rgba(0,0,0,0.75);
@@ -449,10 +460,13 @@ h6{ font-size: 16px; }
     margin-top: 40px;
     text-align: center;
     margin:20px;
+    font-family: Concert One, cursive;
+    font-weight: bold;
 } 
 p{ 
     margin:20px;
     letter-spacing: 0.2px;
+    font-family: 'Nunito', sans-serif;
 }
 
 .home-social{
@@ -550,6 +564,8 @@ second page */
         display: grid;
         padding:0;
         grid-column-gap:2px;
+        
+
     } 
     .intro-wrapper{  
         grid-template-rows: 1fr 1fr 1fr 1fr; 

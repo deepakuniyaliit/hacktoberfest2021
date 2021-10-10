@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&family=Nunito&family=Rakkas&display=swap');
 *{
     margin:0;
     padding:0;
@@ -11,7 +12,7 @@ section{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #112d42;
+    background: #262a46;
 }
 section::before{
     content: "";
@@ -20,7 +21,7 @@ section::before{
     left:0;
     width:50%;
     height:100%;
-    background:#03a9f4;
+    background:#afecd3;
 
 } 
 section .container{
@@ -35,7 +36,7 @@ section .container .contactinfo{
     top:40px;
     width:350px;
     height:calc(100% - 145px);
-    background: #0f3959;
+    background: #262a46;
     z-index: 1;
     margin:0px;
     padding:40px;
@@ -43,6 +44,8 @@ section .container .contactinfo{
     flex-direction: column;
     justify-content: space-between;
     box-shadow: 0 20px 20px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 50px;
 } 
 
 section .container .contactinfo h2{
@@ -50,6 +53,7 @@ section .container .contactinfo h2{
     font-size: 24px;
     margin-left: 100px;
     font-weight: 500;
+    font-family: 'Nunito', sans-serif;
 }
 
 section .container .contactinfo .info{
@@ -118,10 +122,12 @@ section .container .contactForm {
     width:calc(100% - 500px);
     height:78%;
     box-shadow:0 50px 50px rgba(0, 0, 0, 0.5);
+    border:none;
+    border-radius: 50px;
 } 
 
 section .container .contactForm h2{
-    color:#0f3959;
+    color:#262a46;
     font-size: 24px;
     font-weight: 500;
 } 
@@ -179,22 +185,23 @@ section .container .contactForm .formBox .inputBox input:focus ~ span,section .c
     font-size: 16px;
     font-weight: 400;
     letter-spacing: 1px;
-    color:#ff568c;
+    color:#031a2b;
 }
 
 section .container .contactForm .formBox .inputBox input[type="submit"]{
     position: relative;
     cursor: pointer;
-    background: #0f3959;
+    background: #262a46;
     color:#fff;
     border:none;
+    border-radius: 10px;
     max-width: 150px;
     padding:12px;
     margin-left: 200px;
 }
 
 section .container .contactForm .formBox .inputBox input[type="submit"]:hover{
-    background:#ff568c;
+    background:#031a2b;
 } 
 
 @media (max-width: 1100px){ 
