@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "766176951403",
+    "firebase_url": "https://foodstartup-eca21.firebaseio.com",
+    "project_id": "foodstartup-eca21",
+    "storage_bucket": "foodstartup-eca21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766176951403:android:92e270c704bbcb63ca452e",
+        "android_client_info": {
+          "package_name": "com.Startup.food_startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766176951403-0a9itim804ie5mdo7hr90mmsk5gpvq99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Startup.food_startup",
+            "certificate_hash": "640026d43c6f1803cc5ffce5ed7928035a6998c5"
+          }
+        },
+        {
+          "client_id": "766176951403-r3e71qi8tpu8sg6v6j9mv4b8uhmb4r1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjqR8hCg05JOvSvFIIOe3L1_hXYX8SESg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766176951403-r3e71qi8tpu8sg6v6j9mv4b8uhmb4r1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
